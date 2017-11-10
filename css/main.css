@@ -1,0 +1,40 @@
+body {
+  font-family: verdana;
+}
+
+button {
+  width: 80px;
+}
+
+nav {
+  width: 60%;
+  margin-left: 20%;
+  text-align: center;
+}
+
+ul {
+  list-style:  none;
+}
+
+li {
+  width: 100%;
+}
+
+a{
+  text-decoration: none;
+}
+li:hover {
+  background-color: #aaa7af;
+}
+
+a:hover {
+  color: white;
+}
+
+.enabled-menu {
+  display: block;
+}
+
+.disabled-menu {
+  display: none;
+}
